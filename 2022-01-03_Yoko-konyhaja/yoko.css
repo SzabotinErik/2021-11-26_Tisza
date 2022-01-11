@@ -87,6 +87,15 @@ aside section a {
 	padding: 10px;
 	border-bottom: 3px solid #eeeeee;
 }
+aside {
+	width: 230px;
+	margin-left: 20px;
+	float: right;
+}
+aside a {
+	color: #de6581;
+	text-decoration: none;
+}
 
 aside section a:hover {
 	color: #985d6a;
